@@ -6,9 +6,9 @@ public class palindrome {
         //nextline方法可以读取空字符串
         String str = sc.nextLine();
         String str2 = new StringBuilder(str).reverse().toString();
-        if (str.equals(str2)){
+        if (str.equals(str2)) {
             System.out.println("是回文");
-        }else{
+        } else {
             System.out.println("不是回文");
         }
     }
