@@ -1,5 +1,8 @@
 import java.util.Scanner;
 
+/**
+ * @author linyue
+ */
 public class zero {
     public static void main(String[] args) {
         int count = 0;

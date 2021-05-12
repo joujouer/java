@@ -1,3 +1,6 @@
+/**
+ * @author linyue
+ */
 public class sum {
     public static void main(String[] args) {
         double sum = 0;
