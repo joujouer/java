@@ -6,6 +6,9 @@
       <module fileurl="file://$PROJECT_DIR$/5.11/5.11.iml" filepath="$PROJECT_DIR$/5.11/5.11.iml" />
       <module fileurl="file://$PROJECT_DIR$/5.12/5.12.iml" filepath="$PROJECT_DIR$/5.12/5.12.iml" />
       <module fileurl="file://$PROJECT_DIR$/5.13/5.13.iml" filepath="$PROJECT_DIR$/5.13/5.13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5.14/5.14.iml" filepath="$PROJECT_DIR$/5.14/5.14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5.16/5.16.iml" filepath="$PROJECT_DIR$/5.16/5.16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5.25/5.25.iml" filepath="$PROJECT_DIR$/5.25/5.25.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java.iml" filepath="$PROJECT_DIR$/Java.iml" />
     </modules>
   </component>
